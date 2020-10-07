@@ -63,9 +63,10 @@ afes.infoの記事は、全て Markdown 記法を用いて記事の生成を行�
 
 また、以下は Markdown とは少し違う機能ですが、文化祭用に Twitter や Instagram、YouTube の埋め込みができます。イメージは以下のようなものです。
 
-![image alt](https://api.afes.info/images/ix64CWGV9dAfiU7VKsQftfpEnCunjykM09borUSK?orig)
-![image alt](https://api.afes.info/images/bGVtGYXBUvJxPKWiQtaWMbkEBVM267DfyiDMtsI3?orig)
-![image alt](https://api.afes.info/images/ci48u96SdWCNoBlbGqx4VoTyRc1jGf0cKUhcRX5s?orig)
+![Youtube](https://api.afes.info/images/atUFOHQWvrwsWfkoJU8UB0yitSNVUijrBWrDXvJE?orig)
+![Twitter](https://api.afes.info/images/6zbZWBuaeshYJC1e2WFxdisfqZ00xlF9NgjF2a3X?orig)
+![LINK](https://api.afes.info/images/4L64RjmVsHDaDrSIVAg0VqNGY2LB6U1RPj78tmPg?orig)
+![Instagram](https://api.afes.info/images/mp9xehhGRYXxbfXr8ETW5ZTOOQANkmhXg0emjAOO?orig)
 
 ---
 
