@@ -1,5 +1,7 @@
 # Markdown の書式
 
+元の展示向け紹介文は [こちら](./introduction)
+
 <table>
   <thead>
     <tr>
