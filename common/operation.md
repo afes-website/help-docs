@@ -33,3 +33,17 @@ title: 公開までの流れ
 
 | [:bookmark_tabs: 展示団体用目次](/admin) | [:bookmark_tabs: 管理者用目次](/exhibition) | [アカウントについて ＞](./account) |
 | --- | --- | --- |
+
+<table>
+  <thead>
+    <tr>
+      <td>
+        <b>Markdown書式</b>
+      </td>
+      <td>
+        <b>表示</b>
+      </td>
+    </tr>
+    <tr>
+  </thead>
+</table>
