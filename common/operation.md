@@ -1,6 +1,5 @@
 ---
 title: 公開までの流れ
-layout: explanation
 ---
 
 # 公開までの流れ
@@ -32,5 +31,5 @@ layout: explanation
 
 ---
 
-| - | [:bookmark_tabs: 展示団体用目次](/admin) | [:bookmark_tabs: 管理者用目次](/exhibition) | [ログイン方法 ＞](./login)  |
-| --- | --- | --- | --- |
+| [:bookmark_tabs: 展示団体用目次](/admin) | [:bookmark_tabs: 管理者用目次](/exhibition) | [アカウントについて ＞](./account) |
+| --- | --- | --- |
