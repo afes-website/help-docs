@@ -31,17 +31,17 @@ title: 公開までの流れ
 
 ---
 
-| [展示団体用目次](/admin) | [管理者用目次](/exhibition) | [アカウントについて ＞](./account) |
-| --- | --- | --- |
-
 <table>
   <thead>
     <tr>
       <th>
-        <b>Markdown書式</b>
+        [展示団体用目次](/admin)
       </th>
       <th>
-        <b>表示</b>
+        [管理者用目次](/exhibition)
+      </th>
+      <th>
+        [アカウントについて ＞](./account)
       </th>
     </tr>
   </thead>
