@@ -37,13 +37,12 @@ title: 公開までの流れ
 <table>
   <thead>
     <tr>
-      <td>
+      <th>
         <b>Markdown書式</b>
-      </td>
-      <td>
+      </th>
+      <th>
         <b>表示</b>
-      </td>
+      </th>
     </tr>
-    <tr>
   </thead>
 </table>
