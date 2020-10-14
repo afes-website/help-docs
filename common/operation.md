@@ -31,7 +31,7 @@ title: 公開までの流れ
 
 ---
 
-| [:bookmark_tabs: 展示団体用目次](/admin) | [:bookmark_tabs: 管理者用目次](/exhibition) | [アカウントについて ＞](./account) |
+| [展示団体用目次](/admin) | [管理者用目次](/exhibition) | [アカウントについて ＞](./account) |
 | --- | --- | --- |
 
 <table>
