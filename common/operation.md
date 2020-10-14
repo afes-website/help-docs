@@ -35,13 +35,19 @@ title: 公開までの流れ
   <thead>
     <tr>
       <th>
+      
         [展示団体用目次](/admin)
+        
       </th>
       <th>
+      
         [管理者用目次](/exhibition)
+        
       </th>
       <th>
+      
         [アカウントについて ＞](./account)
+        
       </th>
     </tr>
   </thead>
