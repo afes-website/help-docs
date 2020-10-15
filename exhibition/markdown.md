@@ -14,7 +14,6 @@
         <b>表示</b>
       </td>
     </tr>
-    <tr>
   </thead>
   <tbody>
   <tr>
