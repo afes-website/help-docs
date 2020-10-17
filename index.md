@@ -4,6 +4,13 @@
 - [公開までの流れ](/common/operation)
 - [アカウントについて](/common/account)
 
+## 管理者向け
+
+**[管理者向け目次](/admin)**
+
+- [1. 管理ページ一覧](/admin/1-manage)
+- [2. レビューする](/admin/2-review)
+
 ## 展示団体向け
 
 **[展示団体向け目次](/exhibition)**
