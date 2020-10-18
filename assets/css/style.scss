@@ -24,23 +24,47 @@ body {
     "Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
 }
 
-/* ==== width up ==== */
+/* ==== layout ==== */
+
+body {
+  padding: 30px;
+}
 
 .wrapper {
-  width: 1200px;
+  max-width: 1200px;
+  width: 100%;
+  display: flex;
 }
 
 header, footer {
-  width: 350px;
+  width: 250px;
+  float: none;
+}
+
+footer {
+  display: none;
 }
 
 section {
-  width: 800px;
+  width: 100%;
+  margin-left: 300px;
 }
 
 @media print, screen and (max-width: 960px) {
+  body {
+    padding: 20px 10px;
+  }
+  .wrapper {
+    flex-direction: column;
+  }
   header, section, footer {
       width: auto;
+  }
+  header {
+    padding: 0;
+  }
+  section {
+    margin-left: 0;
   }
 }
 
