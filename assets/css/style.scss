@@ -100,3 +100,16 @@ section {
     // margin-bottom: .8rem;
   }
 }
+
+/* ==== other ==== */
+
+:not(pre) > code {
+    padding: .2rem .4rem;
+    margin: 0 .2rem;
+    background: rgba($theme-dark, .1);
+    vertical-align: middle;
+    font-size: .92rem;
+    border-radius: 4px;
+    vertical-align: .08em;
+    font-family: monospace;
+}
