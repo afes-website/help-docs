@@ -18,7 +18,8 @@
 - [1. 展示更新リクエスト](/exhibition/1-post)
 - [2. マークアップ](/exhibition/2-markup)
 - [3. 画像とリンク](/exhibition/3-image-url)
-- [4. 展示管理画面](/exhibition/4-exh-manage)
+- [4. 投稿後にやること](/exhibition/4-after-post)
+- [5. 展示管理画面](/exhibition/5-exh-manage)
 
 # このサイトについて
 
